@@ -98,15 +98,6 @@ Aspiring Full Stack Developer • MERN • Python • React • DevOps Learner
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pruthvipriyapm&show_icons=true&theme=default"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvipriyapm&layout=compact"/>
-
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvipriyapm"/>
 </p>
