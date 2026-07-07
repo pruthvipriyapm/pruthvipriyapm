@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Priya</h1>
 
 <h3 align="center">
-Aspiring Full Stack Developer • MERN • Python • React • DevOps Learner
+Passionate Full Stack Developer • MERN • Python • React 
 </h3>
 
 <p align="center">
